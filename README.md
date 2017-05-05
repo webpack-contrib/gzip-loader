@@ -12,7 +12,7 @@
   <p>gzip loader module for webpack</p>
 </div>
 
-Enables loading of gzipped modules from `Lodash v5.x`.
+Enables loading gzipped resources.
 
 <h2 align="center">Install</h2>
 
