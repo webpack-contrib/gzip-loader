@@ -12,6 +12,8 @@
   <p>gzip loader module for webpack</p>
 </div>
 
+Enables loading of gzipped modules from `Lodash v5.x`.
+
 <h2 align="center">Install</h2>
 
 ```bash
@@ -52,6 +54,34 @@ require("gzip-loader!./file.js.gz");
           <img width="150" height="150" src="https://avatars.githubusercontent.com/u/4303?v=3&s=150">
           </br>
           John-David Dalton
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/bebraw">
+          <img width="150" height="150" src="https://github.com/bebraw.png?v=3&s=150">
+          </br>
+          Juho Vepsäläinen
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/d3viant0ne">
+          <img width="150" height="150" src="https://github.com/d3viant0ne.png?v=3&s=150">
+          </br>
+          Joshua Wiens
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/michael-ciniawsky">
+          <img width="150" height="150" src="https://github.com/michael-ciniawsky.png?v=3&s=150">
+          </br>
+          Michael Ciniawsky
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/evilebottnawi">
+          <img width="150" height="150" src="https://github.com/evilebottnawi.png?v=3&s=150">
+          </br>
+          Alexander Krasnoyarov
         </a>
       </td>
     </tr>
