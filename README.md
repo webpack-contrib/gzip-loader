@@ -17,7 +17,7 @@ Enables loading gzipped resources.
 <h2 align="center">Install</h2>
 
 ```bash
-npm install --save-dev gzip-loader
+npm install --save-dev gzip-loader asdf
 ```
 
 <h2 align="center">Usage</h2>
