@@ -1,6 +1,6 @@
-import { gunzip } from 'zlib';
+const { gunzip } = require('zlib');
 
-function loader(buf) {
+module.exports = function loader(buf) {
   const callback = this.async();
   this.cacheable(true);
   gunzip(buf, (err, unzipped) => {
@@ -10,8 +10,6 @@ function loader(buf) {
       callback(err, unzipped);
     }
   });
-}
+};
 
-loader.raw = true;
-
-export default loader;
+module.exports.raw = true;
