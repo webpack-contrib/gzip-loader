@@ -4,7 +4,7 @@
   "description": "gzip loader module for webpack",
   "license": "MIT",
   "repository": "webpack-contrib/gzip-loader",
-  "author": "John-David Dalton <john.david.dalton@gmail.com> (http://allyoucanleet.com/)",
+  "author": "John-David Dalton <john.david.dalton@gmail.com>",
   "homepage": "https://github.com/webpack-contrib/gzip-loader",
   "bugs": "https://github.com/webpack-contrib/gzip-loader/issues",
   "main": "index.js",
